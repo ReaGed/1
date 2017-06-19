@@ -9,5 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-	<allow-navigation href="http://*.minecraft-galaxy.ru/*" />
+	<allow-navigation href="*" />
 </widget>
