@@ -18,4 +18,5 @@
 	<plugin name="cordova-plugin-whitelist" source="npm" spec="1.1.0" /> 
 	<allow-navigation href="about:blank" />
 	<preference name="loadUrlTimeoutValue" value="120000" />
+	<preference name="orientation" value="portrait" />
 </widget>
