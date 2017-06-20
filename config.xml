@@ -20,5 +20,4 @@
 	<preference name="loadUrlTimeoutValue" value="120000" />
 	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
-	<uses-permission android:name="android.permission.INTERNET" />
 </widget>
